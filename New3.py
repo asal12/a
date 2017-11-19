@@ -29,63 +29,11 @@ ki5 = TOBU.LINE()
 ki5.login(token="EkdB6wUB6BPusf1yTMs6.8Jbtw9ye3dbo27fzahcw1G.bpLu/VaCY0UG05ZxKZgN0As65pqTB0/Cfv8NMpw7Gb8=")
 ki5.loginResult()
 
-ki6 = TOBY.LINE()
-ki6.login(token="EkdlLqBmLCBU1j0vguyb.wmWRnohi7E/2MEX98LFGIW.pbq1dKVJYSjWmiFbZOV/8aJEU/udDWAYeEDw/+pt8x0=")
-ki6.loginResult()
-
-ki7 = TOBY.LINE()
-ki7.login(token="EkjIUAFbQTPl3Xjsu3pc.SlU6WTRtpuOcrw4MSHz2Za.h7Dwma0h5rL7Pf5fwQ8omtmFAdXJqSNV5dLWgia0bc8=")
-ki7.loginResult()
-
-ki8 = TOBY.LINE()
-ki8.login(token="EkWPHHPZL5iNR6b0jIC8.vbFBqJ4JrEF95Ls6iOxsEa.4hz4y6PbFpVZwh4dc5+oJrgAEqzD55yleOJGsGa3+oc=")
-ki8.loginResult()
-
-ki9 = TOBY.LINE()
-ki9.login(token="Ek3P24NjwDQ7HZew5BB8.W0x/HIK55AVrqd58gw4ywa.2jTWSxOpmK9elFzUk5t5DgpjsnrQd842mB/ZiO9lmGI=")
-ki9.loginResult()
-
-ki10 = TOBY.LINE()
-ki10.login(token="Ek4pqtpohIh6VpoN4Pf3./T/4liwn8a4cJbphi0q4SW./yN/ES56xfdifP/whle229VJrsdxtKQEKx5iPQztX5Q=")
-ki10.loginResult()
-
-ki11 = TOBY.LINE()
-ki11.login(token="EkrWWo6httDCbgQMTr89.5Bq4AJQgFqC7No1GrlMtYq.mpg93XbaynE09bACTG1fgTzdJeKFYFOwijJxLLNRyZ0=")
-ki11.loginResult()
-
-ki12 = TOBY.LINE()
-ki12.login(token="EkvSYDO2MoeIC3V73Lu9.GSJ/ySYvnwnNZ4dpw5A0Iq.pNc15It4hfdxz9+L8kympT0Z5jowh5Ot1VMtjp6KOTc=")
-ki12.loginResult()
-
-ki13 = TOBY.LINE()
-ki13.login(token="EkmZ5IpyRPfMyPJFIE12.InTzMpBqnDx3tFA9DHnz4G.WJEMot4PRQKz4whcE7vs4d/k7Buo1kCzv7uW7h5cc64=")
-ki13.loginResult()
-
-ki14 = TOBY.LINE()
-ki14.login(token="Ek6v22tiB06sTi4cTM77.FlNY7WQAqjzsZlSrMEngrW.wtycZwUnHF7H/CPXQtsEogWse7la43ooENQcxnzwnjE=")
-ki14.loginResult()
-
-ki15 = TOBY.LINE()
-ki15.login(token="EkTPSVctKjpeIU6EZ9i6.unovxVnIQoKF/kc4IvS9PG.v+7QfP2QUBZWEiIAa5NeRE/It2JysWThDJ9d3vmcQ0w=")
-ki15.loginResult()
-
-ki16 = TOBY.LINE()
-ki16.login(token="Ek1jh7RFuz5cb6u9EWe8.e/UXAlyRIMf/x8l0h13f6a.lDmGcRPpugUv7OY9TpITrtygeeZHlWryVtqErSD08nI=")
-ki16.loginResult()
-
-ki17 = TOBY.LINE()
-ki17.login(token="EkvacboaVtIBftjL7uI4.ThSmv11GJGF+tAHFw1kYHa.iGmUbO7FsL38bk0UweRWqOmhK/D7qdJlNe4gG+aBBio")
-ki17.loginResult()
-
-ki18 = TOBY.LINE()
-ki18.login(token="EkHVcok1XZaLzGLz7l4a.zmw1QINHCQl62kskOnlToG.+hqQRwSySkmeXTXD7FA+Q0wBBAe2P/USjqWsPZS7cS0=")
-ki18.loginResult()
 reload(sys)
 sys.setdefaultencoding('utf-8')
 
-helpMessage ="""=====[K̶̷̲̅I̶̷̲̅T̶̷̲̅ ̶̷̲̅S̶̷̲̅U̶̷̲̅N̶̷̲̅E̶̷̲̅]=====
-
-[C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅ᴅ̶̲̅]
+helpMessage ="""
+ Command
 ☫[My help]
 ☫[Mybot]
 ☫[Me]
@@ -114,7 +62,7 @@ helpMessage ="""=====[K̶̷̲̅I̶̷̲̅T̶̷̲̅ ̶̷̲̅S̶̷̲̅U̶̷̲̅N̲�
 ☫[Creator]
 ☫[Pesan set:「Text」]
 
-[C̶̲̅ᴏ̶̲̅ᴍ̶̲̅ᴍ̶̲̅ᴀ̶̲̅ɴ̶̲̅ᴅ̶̲̅ ̶̲̅ɪ̶̲̅ɴ̶̲̅ ̶̲̅G̶̲̅ʀ̶̲̅ᴏ̶̲̅ᴜ̶̲̅ᴘ̶̲̅]
+[Command In Grup]
 
 ☫[Kick:「mid」]
 ☫[Invite:「mid」]
@@ -139,30 +87,17 @@ helpMessage ="""=====[K̶̷̲̅I̶̷̲̅T̶̷̲̅ ̶̷̲̅S̶̷̲̅U̶̷̲̅N̲�
 ☫[Ban:]
 ☫[Unban:]  
 
-=====[K̶̷̲̅I̶̷̲̅T̶̷̲̅ ̶̷̲̅S̶̷̲̅U̶̷̲̅N̶̷̲̅E̶̷̲̅]=====
+=====Asal12=====
 """
-KAC=[cl,ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9,ki10,ki11,ki12,ki13,ki14,ki15,ki16,ki17,ki18]
+KAC=[cl,ki,ki2,ki3,ki4,ki5]
 mid = cl.getProfile().mid
 kimid = ki.getProfile().mid
 ki2mid = ki2.getProfile().mid
 ki3mid = ki3.getProfile().mid
 ki4mid = ki4.getProfile().mid
 ki5mid = ki5.getProfile().mid
-ki6mid = ki6.getProfile().mid
-ki7mid = ki7.getProfile().mid
-ki8mid = ki8.getProfile().mid
-ki9mid = ki9.getProfile().mid
-ki10mid = ki10.getProfile().mid
-ki11mid = ki11.getProfile().mid
-ki12mid = ki12.getProfile().mid
-ki13mid = ki13.getProfile().mid
-ki14mid = ki14.getProfile().mid
-ki15mid = ki15.getProfile().mid
-ki16mid = ki16.getProfile().mid
-ki17mid = ki17.getProfile().mid
-ki18mid = ki18.getProfile().mid
-Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid,ki6mid,ki7mid,ki8mid,ki9mid,ki10mid,ki11mid,ki12mid,ki13mid,ki14mid,ki15mid,ki16mid,ki17mid,ki18mid]
-admsa = "ua7fb5762d5066629323d113e1266e8ca"
+Bots=[mid,kimid,ki2mid,ki3mid,ki4mid,ki5mid]
+admsa = ["u0bda852feb6276a7f8abdd05dc5614f2","u863bf51acb17640667bd9586a978e9e0"]
 
 wait = {
     'contact':False,
@@ -171,9 +106,9 @@ wait = {
     'leaveRoom':True,
     'timeline':False,
     'autoAdd':False,
-    'message':"тнαикѕ fσя α∂∂ιиg мє αѕ α fяιєиd",
+    'message':"Suwon Beh",
     "lang":"JP",
-    "comment":"Thanks For Add Me",
+    "comment":"Suwon Beh ya",
     "commentOn":False,
     "commentBlack":{},
     "wblack":False,
@@ -238,7 +173,7 @@ def bot(op):
             msg = op.message
             if msg.toType == 0:
                 msg.to = msg.from_
-                if msg.from_ == "u0712b59d3b74f440930b32091b2e5be8":
+                if msg.from_ == "u0bda852feb6276a7f8abdd05dc5614f2","u863bf51acb17640667bd9586a978e9e0":
                     if "join:" in msg.text:
                         list_ = msg.text.split(":")
                         try:
@@ -347,45 +282,6 @@ def bot(op):
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ki5mid}
                 cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki6mid}
-                cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki7mid}
-                cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki8mid}
-                cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki9mid}
-                cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki10mid}
-                cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki11mid}
-                cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki12mid}
-                cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki13mid}
-                cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki14mid}
-                cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki15mid}
-                cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki16mid}
-                cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki17mid}
-                cl.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki18mid}
-                cl.sendMessage(msg)
             elif msg.text.lower() == 'dit':
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': mid}
@@ -410,58 +306,6 @@ def bot(op):
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ki5mid}
                 ki5.sendMessage(msg)
-            elif msg.text.lower() == 'kb6':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki6mid}
-                ki6.sendMessage(msg)
-            elif msg.text.lower() == 'kb7':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki7mid}
-                ki7.sendMessage(msg)
-            elif msg.text.lower() == 'kb8':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki8mid}
-                ki8.sendMessage(msg)
-            elif msg.text.lower() == 'kb9':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki9mid}
-                ki9.sendMessage(msg)
-            elif msg.text.lower() == 'kb10':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki10mid}
-                ki10.sendMessage(msg)
-            elif msg.text.lower() == 'kb11':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki11mid}
-                ki11.sendMessage(msg)
-            elif msg.text.lower() == 'kb12':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki12mid}
-                ki12.sendMessage(msg)
-            elif msg.text.lower() == 'kb13':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki13mid}
-                ki13.sendMessage(msg)
-            elif msg.text.lower() == 'kb14':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki14mid}
-                ki14.sendMessage(msg)
-            elif msg.text.lower() == 'kb15':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki15mid}
-                ki15.sendMessage(msg)
-            elif msg.text.lower() == 'kb16':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki16mid}
-                ki16.sendMessage(msg)
-            elif msg.text.lower() == 'kb17':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki17mid}
-                ki17.sendMessage(msg)
-            elif msg.text.lower() == 'kb18':
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki18mid}
-                ki18.sendMessage(msg)
             elif msg.text.lower() == 'hore':
                 msg.contentType = 7
                 msg.text = None
@@ -707,18 +551,6 @@ def bot(op):
                 ki3.sendText(msg.to,ki3mid)
                 ki4.sendText(msg.to,ki4mid)
                 ki5.sendText(msg.to,ki5mid)
-                ki6.sendText(msg.to,ki6mid)
-                ki7.sendText(msg.to,ki7mid)
-                ki8.sendText(msg.to,ki8mid)
-                ki9.sendText(msg.to,ki9mid)
-                ki10.sendText(msg.to,ki10mid)
-                ki11.sendText(msg.to,ki11mid)
-                ki12.sendText(msg.to,ki12mid)
-                ki13.sendText(msg.to,ki13mid)
-                ki14.sendText(msg.to,ki14mid)
-                ki15.sendText(msg.to,ki15mid)
-                ki16.sendText(msg.to,ki16mid)
-                ki17.sendText(msg.to,ki16mid)
             elif "TL:" in msg.text:
                 tl_text = msg.text.replace("TL:","")
                 cl.sendText(msg.to,"line://home/post?userMid="+mid+"&postId="+cl.new_post(tl_text)["result"]["post"]["postInfo"]["postId"])
@@ -744,58 +576,6 @@ def bot(op):
                     profile = ki5.getProfile()
                     profile.displayName = string
                     ki5.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki6.getProfile()
-                    profile.displayName = string
-                    ki6.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki7.getProfile()
-                    profile.displayName = string
-                    ki7.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki8.getProfile()
-                    profile.displayName = string
-                    ki8.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki9.getProfile()
-                    profile.displayName = string
-                    ki9.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki10.getProfile()
-                    profile.displayName = string
-                    ki10.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki11.getProfile()
-                    profile.displayName = string
-                    ki11.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki12.getProfile()
-                    profile.displayName = string
-                    ki12.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki13.getProfile()
-                    profile.displayName = string
-                    ki13.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki14.getProfile()
-                    profile.displayName = string
-                    ki14.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki15.getProfile()
-                    profile.displayName = string
-                    ki15.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki16.getProfile()
-                    profile.displayName = string
-                    ki16.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki17.getProfile()
-                    profile.displayName = string
-                    ki17.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 20:
-                    profile = ki18.getProfile()
-                    profile.displayName = string
-                    ki18.updateProfile(profile)
                     cl.sendText(msg.to,"nama berubah menjadi " + string + "")
             elif "Allbio:" in msg.text:
                 string = msg.text.replace("Allbio:","")
@@ -819,58 +599,6 @@ def bot(op):
                     profile = ki5.getProfile()
                     profile.statusMessage = string
                     ki5.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki6.getProfile()
-                    profile.statusMessage = string
-                    ki6.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki7.getProfile()
-                    profile.statusMessage = string
-                    ki7.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki8.getProfile()
-                    profile.statusMessage = string
-                    ki8.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki9.getProfile()
-                    profile.statusMessage = string
-                    ki9.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki10.getProfile()
-                    profile.statusMessage = string
-                    ki10.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki11.getProfile()
-                    profile.statusMessage = string
-                    ki11.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki12.getProfile()
-                    profile.statusMessage = string
-                    ki12.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki13.getProfile()
-                    profile.statusMessage = string
-                    ki13.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki14.getProfile()
-                    profile.statusMessage = string
-                    ki14.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki15.getProfile()
-                    profile.statusMessage = string
-                    ki15.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki16.getProfile()
-                    profile.statusMessage = string
-                    ki16.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki17.getProfile()
-                    profile.statusMessage = string
-                    ki17.updateProfile(profile)
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki18.getProfile()
-                    profile.statusMessage = string
-                    ki18.updateProfile(profile)
                     cl.sendText(msg.to,"Bio berubah menjadi " + string + "")
                 if msg.text == "set":
                     sendMessage(msg.to, "I have set a read point ♪\n「tes」I will show you who I have read ♪")
@@ -939,104 +667,7 @@ def bot(op):
                     ki5.updateProfile(profile)
                     ki5.sendText(msg.to,"Update Names Menjadi :" + string + "")
 #--------------------------------------------------------
-            elif "6name:" in msg.text:
-                string = msg.text.replace("6name:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki6.getProfile()
-                    profile.displayName = string
-                    ki6.updateProfile(profile)
-                    ki6.sendText(msg.to,"Update Names Menjadi :" + string + "")
-#--------------------------------------------------------
-            elif "7name:" in msg.text:
-                string = msg.text.replace("7name:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki7.getProfile()
-                    profile.displayName = string
-                    ki7.updateProfile(profile)
-                    ki7.sendText(msg.to,"Update Names Menjadi :" + string + "")
-#--------------------------------------------------------
-            elif "8name:" in msg.text:
-                string = msg.text.replace("8name:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki8.getProfile()
-                    profile.displayName = string
-                    ki8.updateProfile(profile)
-                    ki8.sendText(msg.to,"Update Names Menjadi :" + string + "")
-#--------------------------------------------------------
-            elif "9name:" in msg.text:
-                string = msg.text.replace("9name:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki9.getProfile()
-                    profile.displayName = string
-                    ki9.updateProfile(profile)
-                    ki9.sendText(msg.to,"Update Names Menjadi :" + string + "")
-#--------------------------------------------------------
-            elif "10name:" in msg.text:
-                string = msg.text.replace("10name:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki10.getProfile()
-                    profile.displayName = string
-                    ki10.updateProfile(profile)
-                    ki10.sendText(msg.to,"Update Names Menjadi :" + string + "")
-#--------------------------------------------------------
-            elif "11names:" in msg.text:
-                string = msg.text.replace("11names:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki11.getProfile()
-                    profile.displayName = string
-                    ki11.updateProfile(profile)
-                    ki11.sendText(msg.to,"Update Names Menjadi :" + string + "")
-            elif "12names:" in msg.text:
-                string = msg.text.replace("12names:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki12.getProfile()
-                    profile.displayName = string
-                    ki12.updateProfile(profile)
-                    ki12.sendText(msg.to,"Update Names Menjadi :" + string + "")
-            elif "13names:" in msg.text:
-                string = msg.text.replace("13names:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki13.getProfile()
-                    profile.displayName = string
-                    ki13.updateProfile(profile)
-                    ki13.sendText(msg.to,"Update Names Menjadi :" + string + "")
-            elif "14names:" in msg.text:
-                string = msg.text.replace("14names:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki14.getProfile()
-                    profile.displayName = string
-                    ki14.updateProfile(profile)
-                    ki14.sendText(msg.to,"Update Names Menjadi :" + string + "")
-            elif "15names:" in msg.text:
-                string = msg.text.replace("15names:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki15.getProfile()
-                    profile.displayName = string
-                    ki15.updateProfile(profile)
-                    ki15.sendText(msg.to,"Update Names Menjadi :" + string + "")
-            elif "16names:" in msg.text:
-                string = msg.text.replace("16names:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki16.getProfile()
-                    profile.displayName = string
-                    ki16.updateProfile(profile)
-                    ki16.sendText(msg.to,"Update Names Menjadi :" + string + "")
-            elif "17names:" in msg.text:
-                string = msg.text.replace("17names:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki17.getProfile()
-                    profile.displayName = string
-                    ki17.updateProfile(profile)
-                    ki17.sendText(msg.to,"Update Names Menjadi :" + string + "")
-            elif "18names:" in msg.text:
-                string = msg.text.replace("18names:","")
-                if len(string.decode('utf-8')) <= 30:
-                    profile = ki18.getProfile()
-                    profile.displayName = string
-                    ki18.updateProfile(profile)
-                    ki18.sendText(msg.to,"Update Names Menjadi :" + string + "")
-#--------------------------------------------------------
-            elif "Cstatus:" in msg.text:
+             elif "Cstatus:" in msg.text:
               if msg.from_ in admin:
                 string = msg.text.replace("Cstatus:","")
                 if len(string.decode('utf-8')) <= 500:
@@ -1095,136 +726,6 @@ def bot(op):
                     ki5.updateProfile(profile)
                 else:
                     ki5.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus6:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = cl.getProfile()
-                    profile.statusMessage = string
-                    ki6.updateProfile(profile)
-                else:
-                    ki6.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus7:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki.getProfile()
-                    profile.statusMessage = string
-                    ki7.updateProfile(profile)
-                else:
-                    ki7.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus8:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki.getProfile()
-                    profile.statusMessage = string
-                    ki8.updateProfile(profile)
-                else:
-                    ki8.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus9:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki.getProfile()
-                    profile.statusMessage = string
-                    ki9.updateProfile(profile)
-                else:
-                    ki9.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus10:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki.getProfile()
-                    profile.statusMessage = string
-                    ki10.updateProfile(profile)
-                else:
-                    ki10.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus11:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki.getProfile()
-                    profile.statusMessage = string
-                    ki11.updateProfile(profile)
-                else:
-                    ki11.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus12:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki.getProfile()
-                    profile.statusMessage = string
-                    ki12.updateProfile(profile)
-                else:
-                    ki12.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus13:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki.getProfile()
-                    profile.statusMessage = string
-                    ki13.updateProfile(profile)
-                else:
-                    ki13.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus14:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki.getProfile()
-                    profile.statusMessage = string
-                    ki14.updateProfile(profile)
-                else:
-                    ki14.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus15:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki.getProfile()
-                    profile.statusMessage = string
-                    ki15.updateProfile(profile)
-                else:
-                    ki15.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus16:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki.getProfile()
-                    profile.statusMessage = string
-                    ki16.updateProfile(profile)
-                else:
-                    ki16.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus17:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki.getProfile()
-                    profile.statusMessage = string
-                    ki17.updateProfile(profile)
-                else:
-                    ki17.sendText(msg.to,"Done")
-#---------------------------------------------------------
-            elif "Cstatus18:" in msg.text:
-              if msg.from_ in admin:
-                string = msg.text.replace("Cstatus:","")
-                if len(string.decode('utf-8')) <= 500:
-                    profile = ki.getProfile()
-                    profile.statusMessage = string
-                    ki18.updateProfile(profile)
-                else:
-                    ki18.sendText(msg.to,"Done")
 #---------------------------------------------------------
             elif "Mid:" in msg.text:
                 mmid = msg.text.replace("Mid:","")
@@ -1528,45 +1029,6 @@ def bot(op):
                 msg.contentType = 13
                 msg.contentMetadata = {'mid': ki5mid}
                 ki5.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki6mid}
-                ki6.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki7mid}
-                ki7.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki8mid}
-                ki8.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki9mid}
-                ki9.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki10mid}
-                ki10.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki11mid}
-                ki11.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki12mid}
-                ki12.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki13mid}
-                ki13.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki14mid}
-                ki14.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki15mid}
-                ki15.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki16mid}
-                ki16.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki17mid}
-                ki17.sendMessage(msg)
-                msg.contentType = 13
-                msg.contentMetadata = {'mid': ki18mid}
-                ki18.sendMessage(msg)
             elif msg.text.lower() == 'kb out':
                 gid = cl.getGroupIdsJoined()
                 gid = ki.getGroupIdsJoined()
@@ -1574,36 +1036,12 @@ def bot(op):
                 gid = ki3.getGroupIdsJoined()
                 gid = ki4.getGroupIdsJoined()
                 gid = ki5.getGroupIdsJoined()
-                gid = ki6.getGroupIdsJoined()
-                gid = ki7.getGroupIdsJoined()
-                gid = ki8.getGroupIdsJoined()
-                gid = ki9.getGroupIdsJoined()
-                gid = ki10.getGroupIdsJoined()
-                gid = ki11.getGroupIdsJoined()
-                gid = ki13.getGroupIdsJoined()
-                gid = ki14.getGroupIdsJoined()
-                gid = ki15.getGroupIdsJoined()
-                gid = ki16.getGroupIdsJoined()
-                gid = ki17.getGroupIdsJoined()
-                gid = ki18.getGroupIdsJoined()
                 for i in gid:
                     ki.leaveGroup(i)
                     ki2.leaveGroup(i)
                     ki3.leaveGroup(i)
                     ki4.leaveGroup(i)
                     ki5.leaveGroup(i)
-                    ki6.leaveGroup(i)
-                    ki7.leaveGroup(i)
-                    ki8.leaveGroup(i)
-                    ki9.leaveGroup(i)
-                    ki10.leaveGroup(i)
-                    ki11.leaveGroup(i)
-                    ki13.leaveGroup(i)
-                    ki14.leaveGroup(i)
-                    ki15.leaveGroup(i)
-                    ki16.leaveGroup(i)
-                    ki17.leaveGroup(i)
-                    ki18.leaveGroup(i)
                 if wait["lang"] == "JP":
                     cl.sendText(msg.to,"Kitsune Bot Sudah Keluar Di semua grup")
                 else:
@@ -1789,7 +1227,7 @@ def bot(op):
                        cl.updateGroup(gs)
                        invsend = 0
                        Ticket = cl.reissueGroupTicket(msg.to)
-                       ki18.acceptGroupInvitationByTicket(msg.to,Ticket)
+                       ki5.acceptGroupInvitationByTicket(msg.to,Ticket)
                        time.sleep(0.01)
                        targets = []
                        for s in gs.members:
@@ -1801,10 +1239,10 @@ def bot(op):
                        else:
                            for target in targets:
                                 try:
-                                    ki18.kickoutFromGroup(msg.to,[target])
+                                    ki5.kickoutFromGroup(msg.to,[target])
                                     print (msg.to,[g.mid])
                                 except:
-                                    ki18.leaveGroup(msg.to)
+                                    ki5.leaveGroup(msg.to)
                                     gs = cl.getGroup(msg.to)
                         	    gs.preventJoinByTicket = True
                         	    cl.updateGroup(gs)
@@ -1901,7 +1339,7 @@ def bot(op):
                         else:
                             for target in targets:
                                 try:
-                                    klist=[ki,ki2,ki3,ki4,ki5,ki6,ki7,ki8,ki9,ki10]
+                                    klist=[ki,ki2,ki3,ki4,ki5]
                                     kicker=random.choice(klist)
                                     random.choice(KAC).kickoutFromGroup(msg.to,[target])
                                     print (msg.to,[g.mid])
@@ -1916,19 +1354,6 @@ def bot(op):
                     gs = ki3.getGroup(msg.to)
                     gs = ki4.getGroup(msg.to)
                     gs = ki5.getGroup(msg.to)
-                    gs = ki6.getGroup(msg.to)
-                    gs = ki7.getGroup(msg.to)
-                    gs = ki8.getGroup(msg.to)
-                    gs = ki9.getGroup(msg.to)
-                    gs = ki10.getGroup(msg.to)
-                    gs = ki11.getGroup(msg.to)
-                    gs = ki12.getGroup(msg.to)
-                    gs = ki13.getGroup(msg.to)
-                    gs = ki14.getGroup(msg.to)
-                    gs = ki15.getGroup(msg.to)
-                    gs = ki16.getGroup(msg.to)
-                    gs = ki17.getGroup(msg.to)
-                    gs = ki18.getGroup(msg.to)
                     ki.sendText(msg.to,"Just some casual cleansing")
                     kk.sendText(msg.to,"Group cleansed.")
                     kc.sendText(msg.to,"GoodBye All")
@@ -2090,45 +1515,6 @@ def bot(op):
                 profile = ki5.getProfile()
                 text = profile.displayName + ""
                 ki5.sendText(msg.to, text)
-                profile = ki6.getProfile()
-                text = profile.displayName + ""
-                ki6.sendText(msg.to, text)
-                profile = ki7.getProfile()
-                text = profile.displayName + ""
-                ki7.sendText(msg.to, text)
-                profile = ki8.getProfile()
-                text = profile.displayName + ""
-                ki8.sendText(msg.to, text)
-                profile = ki9.getProfile()
-                text = profile.displayName + ""
-                ki9.sendText(msg.to, text)
-                profile = ki10.getProfile()
-                text = profile.displayName + ""
-                ki10.sendText(msg.to, text)
-                profile = ki11.getProfile()
-                text = profile.displayName + ""
-                ki11.sendText(msg.to, text)
-                profile = ki12.getProfile()
-                text = profile.displayName + ""
-                ki12.sendText(msg.to, text)
-                profile = ki13.getProfile()
-                text = profile.displayName + ""
-                ki13.sendText(msg.to, text)
-                profile = ki14.getProfile()
-                text = profile.displayName + ""
-                ki14.sendText(msg.to, text)
-                profile = ki15.getProfile()
-                text = profile.displayName + ""
-                ki15.sendText(msg.to, text)
-                profile = ki16.getProfile()
-                text = profile.displayName + ""
-                ki16.sendText(msg.to, text)
-                profile = ki17.getProfile()
-                text = profile.displayName + ""
-                ki17.sendText(msg.to, text)
-                profile = ki18.getProfile()
-                text = profile.displayName + ""
-                ki18.sendText(msg.to, text)
 
 #-----------------------------------------------------------speed
             elif msg.text in ["Ban"]:
@@ -2246,32 +1632,6 @@ def bot(op):
                         ki4.acceptGroupInvitationByTicket(msg.to,Ticket)
                         time.sleep(0.01)
                         ki5.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki6.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki7.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki8.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki9.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki10.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki11.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki12.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki13.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki14.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki15.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki16.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki17.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        time.sleep(0.01)
-                        ki18.acceptGroupInvitationByTicket(msg.to,Ticket)
                         time.sleep(0.01)
                         G = cl.getGroup(msg.to)
                         ginfo = cl.getGroup(msg.to)
@@ -2399,211 +1759,6 @@ def bot(op):
                         G.preventJoinByTicket(G)
                         ki5.updateGroup(G)
 #-----------------------------------------------
-            elif "Bot6 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki6.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki6.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki6.updateGroup(G)
-#-----------------------------------------------
-            elif "Bot7 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki7.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki7.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki7.updateGroup(G)
-#-----------------------------------------------
-            elif "Bot8 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki8.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki8.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki8.updateGroup(G)
-#-----------------------------------------------
-            elif "Bot9 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki9.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki9.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki9.updateGroup(G)
-#-----------------------------------------------
-            elif "Bot10 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki10.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki10.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki10.updateGroup(G)
-#-----------------------------------------------
-            elif "Bot11 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki11.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki11.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki11.updateGroup(G)
-#-----------------------------------------------
-            elif "Bot12 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki12.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki12.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki12.updateGroup(G)
-#-----------------------------------------------
-            elif "Bot13 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki13.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki13.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki13.updateGroup(G)
-#-----------------------------------------------
-            elif "Bot14 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki14.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki14.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki14.updateGroup(G)
-#-----------------------------------------------
-            elif "Bot15 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki15.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki15.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki15.updateGroup(G)
-#-----------------------------------------------
-            elif "Bot16 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki16.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki16.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki16.updateGroup(G)
-            elif "Bot17 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki16.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki17.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki17.updateGroup(G)
-            elif "Bot18 in" in msg.text:
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = False
-                        cl.updateGroup(G)
-                        invsend = 0
-                        Ticket = cl.reissueGroupTicket(msg.to)
-                        ki18.acceptGroupInvitationByTicket(msg.to,Ticket)
-                        G = cl.getGroup(msg.to)
-                        ginfo = cl.getGroup(msg.to)
-                        G.preventJoinByTicket = True
-                        ki18.updateGroup(G)
-                        print "kicker ok"
-                        G.preventJoinByTicket(G)
-                        ki18.updateGroup(G)
 #-----------------------------------------------
             elif msg.text.lower() == 'Pulang':
                 if msg.toType == 2:
@@ -2615,19 +1770,6 @@ def bot(op):
                         ki3.leaveGroup(msg.to)
                         ki4.leaveGroup(msg.to)
                         ki5.leaveGroup(msg.to)
-                        ki6.leaveGroup(msg.to)
-                        ki7.leaveGroup(msg.to)
-                        ki8.leaveGroup(msg.to)
-                        ki9.leaveGroup(msg.to)
-                        ki10.leaveGroup(msg.to)
-                        ki11.leaveGroup(msg.to)
-                        ki12.leaveGroup(msg.to)
-                        ki13.leaveGroup(msg.to)
-                        ki14.leaveGroup(msg.to)
-                        ki15.leaveGroup(msg.to)
-                        ki16.leaveGroup(msg.to)
-                        ki17.leaveGroup(msg.to)
-                        ki18.leaveGroup(msg.to)
                     except:
                         pass
 #-----------------------------------------------
@@ -2671,109 +1813,6 @@ def bot(op):
                     except:
                         pass
 #-----------------------------------------------
-            elif "Bot6 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki6.leaveGroup(msg.to)
-                    except:
-                        pass
-#-----------------------------------------------
-            elif "Bot7 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki7.leaveGroup(msg.to)
-                    except:
-                        pass
-#-----------------------------------------------
-            elif "Bot8 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki8.leaveGroup(msg.to)
-                    except:
-                        pass
-#-----------------------------------------------
-            elif "Bot9 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki9.leaveGroup(msg.to)
-                    except:
-                        pass
-#-----------------------------------------------
-            elif "Bot10 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki10.leaveGroup(msg.to)
-                    except:
-                        pass
-#-----------------------------------------------
-            elif "Bot11 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki11.leaveGroup(msg.to)
-                    except:
-                        pass
-#-----------------------------------------------
-            elif "Bot12 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki12.leaveGroup(msg.to)
-                    except:
-                        pass
-#-----------------------------------------------
-            elif "Bot13 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki13.leaveGroup(msg.to)
-                    except:
-                        pass
-#-----------------------------------------------
-            elif "Bot14 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki14.leaveGroup(msg.to)
-                    except:
-                        pass
-#-----------------------------------------------
-            elif "Bot15 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki15.leaveGroup(msg.to)
-                    except:
-                        pass
-#-----------------------------------------------
-            elif "Bot16 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki16.leaveGroup(msg.to)
-                    except:
-                        pass
-#-----------------------------------------------
-            elif "Kb17 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki17.leaveGroup(msg.to)
-                    except:
-                        pass
-#-----------------------------------------------
-            elif "Bot18 bye" in msg.text:
-                if msg.toType == 2:
-                    ginfo = cl.getGroup(msg.to)
-                    try:
-                        ki18.leaveGroup(msg.to)
-                    except:
-                        pass
 #-----------------------------------------------
             elif "Bot Key" in msg.text:
                 ki.sendText(msg.to,"""      􀠁􀆩􏿿􀠁􀆩􏿿 CYBER BOT CRIME [=] 􀠁􀆩􏿿􀠁􀆩􏿿  \n\n 􀠁􀆩􏿿 key Only Kicker 􀠁􀆩􏿿 \n\n􀠁􀆩􏿿[Kb1 in]\n􀠁􀆩􏿿[1name:]\n􀠁􀆩􏿿[B Cancel]\n􀠁􀆩􏿿[kick @]\n􀠁􀆩􏿿[Ban @]\n􀠁􀆩􏿿[kill]\n􀠁􀆩􏿿[BotChat]\n􀠁􀆩􏿿[Respons]\n􀠁􀆩􏿿[Kb1 Gift]\n􀠁􀆩􏿿[Kb1 bye]\n\n   
@@ -2793,37 +1832,12 @@ def bot(op):
 				ki3.sendText(msg.to,(bctxt))
 				ki4.sendText(msg.to,(bctxt))
 				ki5.sendText(msg.to,(bctxt))
-				ki6.sendText(msg.to,(bctxt))
-				ki7.sendText(msg.to,(bctxt))
-				ki8.sendText(msg.to,(bctxt))
-				ki9.sendText(msg.to,(bctxt))
-				ki10.sendText(msg.to,(bctxt))
-				ki11.sendText(msg.to,(bctxt))
-				ki12.sendText(msg.to,(bctxt))
-				ki13.sendText(msg.to,(bctxt))
-				ki14.sendText(msg.to,(bctxt))
-				ki15.sendText(msg.to,(bctxt))
-				ki16.sendText(msg.to,(bctxt))
-				ki17.sendText(msg.to,(bctxt))
             elif msg.text.lower() == 'ping':
                 ki.sendText(msg.to,"Ping 􀠁􀆩􏿿")
                 ki2.sendText(msg.to,"Ping 􀠁􀆩􏿿")
                 ki3.sendText(msg.to,"Ping 􀠁􀆩􏿿")
                 ki4.sendText(msg.to,"Ping 􀠁􀆩􏿿")
                 ki5.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki6.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki7.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki8.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki9.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki10.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki11.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki12.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki13.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki14.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki15.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki16.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki17.sendText(msg.to,"Ping 􀠁􀆩􏿿")
-                ki18.sendText(msg.to,"Ping 􀠁􀆩􏿿")
 #----------------------------------------------- 
 #-----------------------------------------------
         if op.type == 19:
@@ -2840,18 +1854,6 @@ def bot(op):
                         ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
                         G.preventJoinByTicket = True
                         cl.updateGroup(G)
                     else:
@@ -2871,18 +1873,6 @@ def bot(op):
                         ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
                         G.preventJoinByTicket = True
                         cl.updateGroup(G)
                         ki.updateGroup(G)
@@ -2902,18 +1892,6 @@ def bot(op):
                         ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
                         G.preventJoinByTicket = True
                         ki2.updateGroup(G)
                     else:
@@ -2930,18 +1908,6 @@ def bot(op):
                         ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
                         G.preventJoinByTicket = True
                         ki.updateGroup(G)
 
@@ -2958,18 +1924,6 @@ def bot(op):
                         ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
                         G.preventJoinByTicket = True
                         ki2.updateGroup(G)
                     else:
@@ -2987,18 +1941,6 @@ def bot(op):
                         ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
                         G.preventJoinByTicket = True
                         ki2.updateGroup(G)
                         
@@ -3014,18 +1956,6 @@ def bot(op):
                         ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
                         G.preventJoinByTicket = True
                         ki3.updateGroup(G)
                     else:
@@ -3043,18 +1973,6 @@ def bot(op):
                         ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
                         G.preventJoinByTicket = True
                         ki3.updateGroup(G)
                         
@@ -3070,18 +1988,6 @@ def bot(op):
                         ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
                         G.preventJoinByTicket = True
                         cl.updateGroup(G)
                     else:
@@ -3099,18 +2005,6 @@ def bot(op):
                         ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
                         G.preventJoinByTicket = True
                         ki5.updateGroup(G)
 
@@ -3126,18 +2020,6 @@ def bot(op):
                         ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
                         G.preventJoinByTicket = True
                         ki4.updateGroup(G)
                     else:
@@ -3155,636 +2037,9 @@ def bot(op):
                         ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
                         ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
                         G.preventJoinByTicket = True
                         ki4.updateGroup(G)
 
-                elif op.param3 in ki6mid:
-                    if op.param2 in ki5mid:
-                        G = ki5.getGroup(op.param1)
-                        G.preventJoinByTicket = False
-                        ki5.updateGroup(G)
-                        Ticket = ki5.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki5.updateGroup(G)
-                    else:
-                        G = ki5.getGroup(op.param1)
-
-                        
-                        ki5.kickoutFromGroup(op.param1,[op.param2])
-
-                        G.preventJoinByTicket = False
-                        ki5.updateGroup(G)
-                        Ticket = ki5.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki5.updateGroup(G)
-
-                elif op.param3 in ki7mid:
-                    if op.param2 in ki6mid:
-                        G = ki6.getGroup(op.param1)
-                        G.preventJoinByTicket = False
-                        ki6.updateGroup(G)
-                        Ticket = ki6.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki6.updateGroup(G)
-                    else:
-                        G = ki6.getGroup(op.param1)
-
-                        
-                        ki6.kickoutFromGroup(op.param1,[op.param2])
-
-                        G.preventJoinByTicket = False
-                        ki6.updateGroup(G)
-                        Ticket = ki6.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki6.updateGroup(G)
-
-                elif op.param3 in ki8mid:
-                    if op.param2 in ki7mid:
-                        G = ki7.getGroup(op.param1)
-                        G.preventJoinByTicket = False
-                        ki7.updateGroup(G)
-                        Ticket = ki7.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki7.updateGroup(G)
-                    else:
-                        G = ki7.getGroup(op.param1)
-
-                        
-                        ki7.kickoutFromGroup(op.param1,[op.param2])
-
-                        G.preventJoinByTicket = False
-                        ki7.updateGroup(G)
-                        Ticket = ki7.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki7.updateGroup(G)
-
-                elif op.param3 in ki9mid:
-                    if op.param2 in ki8mid:
-                        G = ki8.getGroup(op.param1)
-                        G.preventJoinByTicket = False
-                        ki8.updateGroup(G)
-                        Ticket = ki8.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki8.updateGroup(G)
-                    else:
-                        G = ki8.getGroup(op.param1)
-
-                        
-                        ki8.kickoutFromGroup(op.param1,[op.param2])
-
-                        G.preventJoinByTicket = False
-                        ki8.updateGroup(G)
-                        Ticket = ki8.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki8.updateGroup(G)
-
-                elif op.param3 in ki10mid:
-                    if op.param2 in ki9mid:
-                        G = ki9.getGroup(op.param1)
-                        G.preventJoinByTicket = False
-                        ki9.updateGroup(G)
-                        Ticket = ki9.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki9.updateGroup(G)
-                    else:
-                        G = ki9.getGroup(op.param1)
-
-                        
-                        ki9.kickoutFromGroup(op.param1,[op.param2])
-
-                        G.preventJoinByTicket = False
-                        ki9.updateGroup(G)
-                        Ticket = ki9.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki9.updateGroup(G)
-
-                elif op.param3 in ki11mid:
-                    if op.param2 in ki10mid:
-                        G = ki10.getGroup(op.param1)
-                        G.preventJoinByTicket = False
-                        ki10.updateGroup(G)
-                        Ticket = ki10.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki10.updateGroup(G)
-                    else:
-                        G = ki10.getGroup(op.param1)
-
-                        
-                        ki10.kickoutFromGroup(op.param1,[op.param2])
-
-                        G.preventJoinByTicket = False
-                        ki10.updateGroup(G)
-                        Ticket = ki10.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki10.updateGroup(G)
-
-                elif op.param3 in ki12mid:
-                    if op.param2 in ki11mid:
-                        G = ki11.getGroup(op.param1)
-                        G.preventJoinByTicket = False
-                        ki11.updateGroup(G)
-                        Ticket = ki11.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki11.updateGroup(G)
-                    else:
-                        G = ki11.getGroup(op.param1)
-
-                        
-                        ki11.kickoutFromGroup(op.param1,[op.param2])
-
-                        G.preventJoinByTicket = False
-                        ki11.updateGroup(G)
-                        Ticket = ki11.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki11.updateGroup(G)
-
-                elif op.param3 in ki13mid:
-                    if op.param2 in ki12mid:
-                        G = ki12.getGroup(op.param1)
-                        G.preventJoinByTicket = False
-                        ki12.updateGroup(G)
-                        Ticket = ki12.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki12.updateGroup(G)
-                    else:
-                        G = ki12.getGroup(op.param1)
-
-                        
-                        ki12.kickoutFromGroup(op.param1,[op.param2])
-
-                        G.preventJoinByTicket = False
-                        ki12.updateGroup(G)
-                        Ticket = ki12.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki12.updateGroup(G)
-
-                elif op.param3 in ki14mid:
-                    if op.param2 in ki13mid:
-                        G = ki13.getGroup(op.param1)
-                        G.preventJoinByTicket = False
-                        ki13.updateGroup(G)
-                        Ticket = ki13.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki13.updateGroup(G)
-                    else:
-                        G = ki13.getGroup(op.param1)
-
-                        
-                        ki13.kickoutFromGroup(op.param1,[op.param2])
-
-                        G.preventJoinByTicket = False
-                        ki13.updateGroup(G)
-                        Ticket = ki13.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki13.updateGroup(G)
-
-                elif op.param3 in ki15mid:
-                    if op.param2 in ki14mid:
-                        G = ki14.getGroup(op.param1)
-                        G.preventJoinByTicket = False
-                        ki14.updateGroup(G)
-                        Ticket = ki14.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki14.updateGroup(G)
-                    else:
-                        G = ki14.getGroup(op.param1)
-
-                        
-                        ki14.kickoutFromGroup(op.param1,[op.param2])
-
-                        G.preventJoinByTicket = False
-                        ki14.updateGroup(G)
-                        Ticket = ki14.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki14.updateGroup(G)
-
-                elif op.param3 in ki16mid:
-                    if op.param2 in ki15mid:
-                        G = ki15.getGroup(op.param1)
-                        G.preventJoinByTicket = False
-                        ki15.updateGroup(G)
-                        Ticket = ki15.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki15.updateGroup(G)
-                    else:
-                        G = ki15.getGroup(op.param1)
-
-                        
-                        ki15.kickoutFromGroup(op.param1,[op.param2])
-
-                        G.preventJoinByTicket = False
-                        ki15.updateGroup(G)
-                        Ticket = ki15.reissueGroupTicket(op.param1)
-                        cl.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki2.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki3.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki4.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki5.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki6.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki7.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki8.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki9.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki10.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki11.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki12.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki13.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki14.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki15.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki16.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        ki17.acceptGroupInvitationByTicket(op.param1,Ticket)
-                        G.preventJoinByTicket = True
-                        ki15.updateGroup(G)
             except:
                 pass
 	if op.type == 17:
