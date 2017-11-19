@@ -1870,14 +1870,24 @@ def bot(op):
 					kk.sendText(msg.to,"add beh")
 					ki.sendMessage(msg)
 #-----------------------------------------------
-    elif "Spam " in msg.text:
-                if msg.from_ in admin:
-                  bctxt = msg.text.replace("Spam ", "")
-                  t = cl.getAllContactIds()
-                  t = 10
-                  while(t):
-                    cl.sendText(msg.to, (bctxt))
-                    t-=1
+             elif "Spam " in msg.text:
+              if msg.from_ in admin:
+                txt = msg.text.split(" ")
+                jmlh = int(txt[2])
+                teks = msg.text.replace("Spam ")+str(txt[1])+" "+str(jmlh + " ","")
+                tulisan = jmlh * (teks+"\n")
+                 #@reno.a.w
+                if txt[1] == "on":
+                    if jmlh <= 300:
+                       for x in range(jmlh):
+                           cl.sendText(msg.to, teks)
+                    else:
+                       cl.sendText(msg.to, "Kelebihan batas:v")
+                elif txt[1] == "off":
+                    if jmlh <= 300:
+                        cl.sendText(msg.to, tulisan)
+                    else:
+                        cl.sendText(msg.to, "Kelebihan batas :v")
 #-----------------------------------------------
             elif msg.text == "Check":
                     cl.sendText(msg.to, "Siderss")
